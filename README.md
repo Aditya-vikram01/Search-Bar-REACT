@@ -6,3 +6,10 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+#Search Bar
+
+This is a simple searchbar component
+
+![image](https://github.com/Aditya-vikram01/Search-Bar-REACT/assets/88456505/982cf510-4151-4339-b9b0-6ac88d256dc6)
